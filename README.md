@@ -25,8 +25,8 @@ Passwords:
 | ----- | ----------------------------------- |
 | labuser | Arya123@@## |
 | root  | (not needed for students; ...set your own admin password) |
-
-### Key Processes
+|soyam-arya |(adminuser) |passwd = Arya123@@##
+ ### Key Processes
 
 1. smbd / nmbd – Samba providing the anonymous public share
 2. sshd – SSH on port 22
@@ -244,3 +244,4 @@ whoami
 id
 cat /root/root.txt
 ```
+**NOTE = READ THIS WORK-THROUGH IN GITHUB AND ONE MORE INFO THIS WHILE SUBMITING THIS MACHINE HTB PAGE IS NOT ACCEPT BY PASSWD OF USER AND ADMIN SO I HAVE TO WRITE IT HERE AND I HAVE TO PUT WRONG  PASSWD TO SUBMIT THIS MACHINE OR PAGE !** 
